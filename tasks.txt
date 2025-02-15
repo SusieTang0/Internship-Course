@@ -9,8 +9,9 @@ Week 1 - 02/03/2025 - 02/07/2025
 ----------------------------------------
 Week 2 - 02/10/2025 - 02/14/2025
 
-
-
+- Attend the company's biweekly sync meetings and SCRUM project meetings.
+- Develop three frontend pages using Carbon Design System components with TypeScript and React.
+- Resolve the compatibility issue between Carbon and React 19 that causes tabs components not to display.
 
 ----------------------------------------
 Week 3 - 02/17/2025 - 02/21/2025
