@@ -16,8 +16,9 @@ Week 2 - 02/10/2025 - 02/14/2025
 ----------------------------------------
 Week 3 - 02/17/2025 - 02/21/2025
 
-
-
+- Participated in daily Scrum and weekly meetings, ensuring seamless team communication and collaborating on backend data schema design.
+- Designed and styled six pages using Carbon Design System components, maintaining consistency and responsiveness.
+- Developed eight reusable components, including Chart, Data Table, Tabs, and Image Upload, enhancing code reusability and user experience.
 
 ----------------------------------------
 Week 4 - 02/24/2025 - 02/28/2025
