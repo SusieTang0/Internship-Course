@@ -23,7 +23,10 @@ Week 3 - 02/17/2025 - 02/21/2025
 ----------------------------------------
 Week 4 - 02/24/2025 - 02/28/2025
 
-
+- Completed the development of form-related components such as drop-down select, checkbox group,  radio group, etc. 
+- Created three forms for patient registration and other  information recordings by using the components above.
+- Upgraded the panel component, originally built based on the Side Nav Menu, to a globally reusable component so that it can be applied to all forms related to patient.
+- Participated in daily team meetings, weekly project meetings, and biweekly company meetings to provide work updates and project communication.
 
 
 ----------------------------------------
