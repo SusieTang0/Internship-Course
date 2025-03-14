@@ -40,9 +40,12 @@ Week 5 - 03/03/2025 - 03/07/2025
 ----------------------------------------
 Week 6 - 03/10/2025 - 03/14/2025
 
-
-
-
+- Created and optimized calendar component. Inserted it in Add and Edit Appointment Form.
+- Developed the calendar page to display daily appointment volumes for the current month, categorized by service.
+- Created the doctor’s appointment management panel and added a search function to improve the efficiency of finding patients.
+- Optimized the patient information card as a reusable component.
+- Participated in daily team meetings, weekly project meetings, to provide work updates and project communication, collaborated with backend team on API creation.
+ 
 
 ----------------------------------------
 Week 7 - 03/17/2025 - 03/21/2025
