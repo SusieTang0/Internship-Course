@@ -57,10 +57,11 @@ Week 7 - 03/17/2025 - 03/21/2025
 ----------------------------------------
 Week 8 - 03/24/2025 - 03/28/2025
 
-
-
-
-
+- Create constant files, data type files, fake data files, and get data files in preparation for accessing the API.
+- Modify most of the data tables to get data from the fake data files. Fetch data from 8 tables from dummy data and insert them into existing data tables.
+- Create sticky note images using Figma and use them with the record button when no data is displayed.
+- Modify the Vital Data table to display colors and arrows by level of abnormality.
+- Participated in daily team meetings, weekly project meetings, to provide work updates and project communication, and API creation support.
 
 ----------------------------------------
 Week 9 - 03/31/2025 - 04/04/2025
