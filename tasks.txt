@@ -46,16 +46,17 @@ Week 6 - 03/10/2025 - 03/14/2025
 - Optimized the patient information card as a reusable component.
 - Participated in daily team meetings, weekly project meetings, to provide work updates and project communication, collaborated with backend team on API creation.
  
-
 ----------------------------------------
 Week 7 - 03/17/2025 - 03/21/2025
 
-
-
-
+- Updated the calendar and date picker components. Inserted calendar component in the Add Appointment form. Completed the click interaction for the calendar and date picker.
+- Updated patient info card. Updated global panel to adjust right side alignment formatting based on doctor or patient page.
+- Updated the layout styling and button set in six forms. Added onClose function as a parameter in each forms.
+- Participated in daily team meetings, weekly project meetings, to provide work updates and project communication, collaborated with backend team on API creation.
 
 ----------------------------------------
 Week 8 - 03/24/2025 - 03/28/2025
+
 
 
 
