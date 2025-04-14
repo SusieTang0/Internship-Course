@@ -66,9 +66,11 @@ Week 8 - 03/24/2025 - 03/28/2025
 ----------------------------------------
 Week 9 - 03/31/2025 - 04/04/2025
 
-
-
-
+- Enhanced the Tabs component to support dynamic chart displays, improving user data visualization.
+- Refactored and finalized the Patient Registration and Edit forms, preparing them for API integration.
+- Fixed import errors and improved the Patient Contact Detail form for better modularity and maintainability.
+- Integrated backend API calls to support patient creation and editing, ensuring proper display of patient information on the Patient Edit Page.
+- Actively participated in daily standups and weekly project meetings to provide development updates, contribute to planning, and assist in API design and integration efforts.
 
 ----------------------------------------
 Week 10 - 04/07/2025 - 04/11/2025
