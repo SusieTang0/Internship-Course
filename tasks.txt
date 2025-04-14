@@ -75,8 +75,10 @@ Week 9 - 03/31/2025 - 04/04/2025
 ----------------------------------------
 Week 10 - 04/07/2025 - 04/11/2025
 
-
-
-
+- Integrated API calls to retrieve providers, services, and location information, and successfully connected to the Create Appointment API to enable new appointment creation in the database.
+- Implemented a uuidProvider utility to manage unique identifiers and streamline appointment control logic.
+- Optimized API call logic to support the creation of recurring appointments, improving user efficiency.
+- Added a search bar for patients in the header and resolved several bugs related to the search functionality.
+- Participated in a team lunch to strengthen collaboration and attended the final project progress meeting with the team.
 
 ========================================
